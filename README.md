@@ -1,3 +1,7 @@
+# Foundations
+* Matrix calculus: http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
+* Linear Algerbra: Gilbert Strang’s MIT course on OpenCourseWare: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+
 # Reading list
 * Lot of papers are around 2010-2012 (so maybe a little old) http://deeplearning.net/reading-list/
 
@@ -17,3 +21,5 @@
 * Standford cs231 http://cs231n.stanford.edu/
 
 * Standford cs224d http://cs224d.stanford.edu/
+
+* fast ai courses: http://course.fast.ai/start.html
