@@ -23,3 +23,6 @@
 * Standford cs224d http://cs224d.stanford.edu/
 
 * fast ai courses: http://course.fast.ai/start.html
+
+# GPU resouorce
+* https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
