@@ -1,1 +1,4 @@
-# Check data normal: http://allendowney.blogspot.com/2013/08/are-my-data-normal.html
+# Check data
+* Check data normal: http://allendowney.blogspot.com/2013/08/are-my-data-normal.html
+# Allen Downey blog
+* http://allendowney.blogspot.com/2018/
