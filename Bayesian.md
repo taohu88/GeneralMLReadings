@@ -1,3 +1,7 @@
+# Bayesian introduction
+* http://www.scholarpedia.org/article/Bayesian
+
+
 # Guassian
 * http://cs229.stanford.edu/section/more_on_gaussians.pdf
 
