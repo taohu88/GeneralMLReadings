@@ -3,6 +3,7 @@
 
 # Learning and blogs:
 * http://fastml.com/bayesian-machine-learning/
+* Reddit discussion: https://www.reddit.com/r/MachineLearning/comments/4c5gqk/is_pattern_recognition_and_machine_learning_still/
 
 # Guassian
 * http://cs229.stanford.edu/section/more_on_gaussians.pdf
