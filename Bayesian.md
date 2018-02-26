@@ -1,3 +1,6 @@
+# Guassian
+* http://cs229.stanford.edu/section/more_on_gaussians.pdf
+
 # Bayesian Linear Model
 * https://tgmstat.wordpress.com/2013/08/07/bayesian-linear-regression-model-simple-yet-useful-results/
 * https://en.wikipedia.org/wiki/Bayesian_linear_regression
