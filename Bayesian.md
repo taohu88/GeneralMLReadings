@@ -1,6 +1,8 @@
 # Bayesian introduction
 * http://www.scholarpedia.org/article/Bayesian
 
+# Learning and blogs:
+* http://fastml.com/bayesian-machine-learning/
 
 # Guassian
 * http://cs229.stanford.edu/section/more_on_gaussians.pdf
