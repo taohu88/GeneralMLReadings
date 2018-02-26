@@ -11,3 +11,6 @@ Check data
 * http://allendowney.blogspot.com/2018/
 #
 * http://twiecki.github.io/blog/2017/03/14/random-walk-deep-net/
+
+# Bayesian inference
+* Prime on bayesian inference http://personal.vu.nl/a.f.de.vos/primer/primer.pdf
