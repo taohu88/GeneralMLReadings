@@ -21,3 +21,6 @@ Check data
 
 # Bayesian inference
 * Prime on bayesian inference http://personal.vu.nl/a.f.de.vos/primer/primer.pdf
+
+# Bayesian and Deep learning
+* Auto Encoding Variational Bayesian: https://arxiv.org/abs/1312.6114
