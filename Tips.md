@@ -1,3 +1,6 @@
+# Hyper Parameter
+* https://github.com/scikit-optimize/scikit-optimize
+
 # Hash trikcs
 * https://en.wikipedia.org/wiki/Feature_hashing
 
