@@ -11,3 +11,5 @@
 # Read files for tensor
 * http://ischlag.github.io/2016/06/19/tensorflow-input-pipeline-example/
 
+# Tensorflow Data Import
+
