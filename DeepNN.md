@@ -8,6 +8,7 @@
 * Andrej Karpathy http://karpathy.github.io/2018/01/20/medium/
 * Tutorial: http://deeplearning.net/tutorial/
 * Chinese version on RBM: http://blog.csdn.net/itplus/article/details/19168937
+* Chinese version on RBM: http://blog.csdn.net/qiao1245/article/details/50932519
 
 # Tutorials
 * https://www.analyticsvidhya.com/blog/2017/12/11-deep-learning-analytics-vidhya-2017/
