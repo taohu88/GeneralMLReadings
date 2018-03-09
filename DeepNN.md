@@ -13,5 +13,9 @@
 * Chinese version on RBM: http://blog.csdn.net/itplus/article/details/19168937
 * Chinese version on RBM: http://blog.csdn.net/qiao1245/article/details/50932519
 
+# Deep NN vs Gaussian Process
+* Neals famous paper: ftp://www.cs.toronto.edu/dist/radford/pin.pdf
+* Latest Google paper: https://arxiv.org/pdf/1711.00165.pdf
+
 # Tutorials
 * https://www.analyticsvidhya.com/blog/2017/12/11-deep-learning-analytics-vidhya-2017/
