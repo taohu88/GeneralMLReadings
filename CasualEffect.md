@@ -9,3 +9,4 @@
 # Introduction
 * https://www.youtube.com/watch?v=fvz-qdS4WFI&t=59s
 * Inferring the effect of an event using CausalImpact by Kay Brodersen: https://www.youtube.com/watch?v=GTgZfCltMm8
+* slide on causal effect: https://www.slideshare.net/BigDataSpain/inferring-the-effect-of-an-event-using-causalimpact-by-kay-h-brodersen/1
