@@ -6,6 +6,9 @@
 * Predicting the Present with Bayesian Structural Time Series: http://people.ischool.berkeley.edu/~hal/Papers/2013/pred-present-with-bsts.pdf
 * Double/Debiased Machine Learning for Treatment and Causal Parameters: https://arxiv.org/abs/1608.00060
 
+# Blog
+* https://www.r-bloggers.com/cross-fitting-double-machine-learning-estimator/
+
 # Introduction
 * https://www.youtube.com/watch?v=fvz-qdS4WFI&t=59s
 * Inferring the effect of an event using CausalImpact by Kay Brodersen: https://www.youtube.com/watch?v=GTgZfCltMm8
