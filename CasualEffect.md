@@ -10,6 +10,7 @@ HIGH-DIMENSIONAL DATA https://arxiv.org/pdf/1311.2645.pdf
 
 # Blog
 * https://www.r-bloggers.com/cross-fitting-double-machine-learning-estimator/
+* Double selection and double machine learn: https://medium.com/teconomics-blog/using-ml-to-resolve-experiments-faster-bd8053ff602e
 
 # Introduction
 * https://www.youtube.com/watch?v=fvz-qdS4WFI&t=59s
