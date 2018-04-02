@@ -4,6 +4,7 @@
 
 # Reading list
 * Lot of papers are around 2010-2012 (so maybe a little old) http://deeplearning.net/reading-list/
+* Chinese version on people of ML: https://blog.csdn.net/txwh0820/article/details/45830815
 
 # Blogs
 * Karpathy: https://medium.com/@karpathy/
