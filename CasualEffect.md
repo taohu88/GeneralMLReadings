@@ -5,6 +5,8 @@
 * Inferring causal impact using Bayesian structural time-series models: https://research.google.com/pubs/pub41854.html
 * Predicting the Present with Bayesian Structural Time Series: http://people.ischool.berkeley.edu/~hal/Papers/2013/pred-present-with-bsts.pdf
 * Double/Debiased Machine Learning for Treatment and Causal Parameters: https://arxiv.org/abs/1608.00060
+* PROGRAM EVALUATION AND CAUSAL INFERENCE WITH
+HIGH-DIMENSIONAL DATA https://arxiv.org/pdf/1311.2645.pdf
 
 # Blog
 * https://www.r-bloggers.com/cross-fitting-double-machine-learning-estimator/
