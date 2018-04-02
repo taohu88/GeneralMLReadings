@@ -7,6 +7,8 @@
 * Double/Debiased Machine Learning for Treatment and Causal Parameters: https://arxiv.org/abs/1608.00060
 * PROGRAM EVALUATION AND CAUSAL INFERENCE WITH
 HIGH-DIMENSIONAL DATA https://arxiv.org/pdf/1311.2645.pdf
+* INFERENCE ON TREATMENT EFFECTS AFTER SELECTION
+AMONGST HIGH-DIMENSIONAL CONTROLS: https://arxiv.org/pdf/1201.0224.pdf
 
 # Blog
 * https://www.r-bloggers.com/cross-fitting-double-machine-learning-estimator/
