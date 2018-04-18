@@ -1,6 +1,11 @@
 # Graph Calculus
 * http://colah.github.io/posts/2015-08-Backprop/
 
+# Books/Tutorial
+1. [But what *is* a Neural Network? | Chapter 1, deep learning](https://www.youtube.com/watch?v=aircAruvnKk)
+2. [Deep NN book] (http://neuralnetworksanddeeplearning.com/)
+3. [Chris Olah's blog] (http://colah.github.io/)
+
 # Best Pages
 
 # Blogs
