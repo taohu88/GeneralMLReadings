@@ -10,6 +10,9 @@ HIGH-DIMENSIONAL DATA https://arxiv.org/pdf/1311.2645.pdf
 * INFERENCE ON TREATMENT EFFECTS AFTER SELECTION
 AMONGST HIGH-DIMENSIONAL CONTROLS: https://arxiv.org/pdf/1201.0224.pdf
 
+# GAN
+* https://github.com/mkocaoglu/CausalGAN
+
 # Blog
 * https://www.r-bloggers.com/cross-fitting-double-machine-learning-estimator/
 * Double selection and double machine learn: https://medium.com/teconomics-blog/using-ml-to-resolve-experiments-faster-bd8053ff602e
