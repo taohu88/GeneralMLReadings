@@ -11,7 +11,7 @@ HIGH-DIMENSIONAL DATA https://arxiv.org/pdf/1311.2645.pdf
 AMONGST HIGH-DIMENSIONAL CONTROLS: https://arxiv.org/pdf/1201.0224.pdf
 
 # GAN
-* https://github.com/mkocaoglu/CausalGAN
+* [Causal GAN](https://github.com/mkocaoglu/CausalGAN)
 * [GANITE: ESTIMATION OF INDIVIDUALIZED TREATMENT
 EFFECTS USING GENERATIVE ADVERSARIAL
 NETS](https://openreview.net/pdf?id=ByKWUeWA-)
