@@ -12,6 +12,9 @@ AMONGST HIGH-DIMENSIONAL CONTROLS: https://arxiv.org/pdf/1201.0224.pdf
 
 # GAN
 * https://github.com/mkocaoglu/CausalGAN
+* [GANITE: ESTIMATION OF INDIVIDUALIZED TREATMENT
+EFFECTS USING GENERATIVE ADVERSARIAL
+NETS](https://openreview.net/pdf?id=ByKWUeWA-)
 
 # Blog
 * https://www.r-bloggers.com/cross-fitting-double-machine-learning-estimator/
