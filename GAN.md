@@ -6,6 +6,10 @@
 # Tips on training
 * [Tips on GAN](https://github.com/soumith/ganhacks#authors)
 
+# Causal GAN
+* [Causal GAN](https://arxiv.org/abs/1711.08936)
+
+
 # Tutorial
 * [Generative Adversarial Networks](https://theneuralperspective.com/2016/10/02/generative-adversarial-networks/)
 * [Generative Adversarial Networks](https://theneuralperspective.com/2016/10/18/generative-adversarial-networks-gan/)
