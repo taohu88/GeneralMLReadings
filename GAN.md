@@ -1,5 +1,6 @@
 # Papers
 * [Original paper Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+* [Ian Goodfellow: Generative Adversarial Networks (NIPS 2016 tutorial)](https://www.youtube.com/watch?v=HGYYEUSm-0Q)
 
 * [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf)
 
