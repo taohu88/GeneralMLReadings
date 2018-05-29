@@ -10,6 +10,8 @@ HIGH-DIMENSIONAL DATA https://arxiv.org/pdf/1311.2645.pdf
 * INFERENCE ON TREATMENT EFFECTS AFTER SELECTION
 AMONGST HIGH-DIMENSIONAL CONTROLS: https://arxiv.org/pdf/1201.0224.pdf
 
+* [Marginal Structural Models](http://epiresearch.org/wp-content/uploads/2014/07/Robins_EPI_2000_11_550.pdf)
+
 # GAN
 * [Causal GAN](https://github.com/mkocaoglu/CausalGAN)
 * [GANITE: ESTIMATION OF INDIVIDUALIZED TREATMENT
