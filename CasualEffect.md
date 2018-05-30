@@ -1,7 +1,7 @@
 
 # Papers 
 
-* Tree base Casual effect: https://www.gsb.stanford.edu/faculty-research/working-papers/machine-learning-estimating-heretogeneous-casual-effects
+* [Tree base Casual effect] (https://www.gsb.stanford.edu/faculty-research/working-papers/machine-learning-estimating-heretogeneous-casual-effects)
 * Inferring causal impact using Bayesian structural time-series models: https://research.google.com/pubs/pub41854.html
 * Predicting the Present with Bayesian Structural Time Series: http://people.ischool.berkeley.edu/~hal/Papers/2013/pred-present-with-bsts.pdf
 * Double/Debiased Machine Learning for Treatment and Causal Parameters: https://arxiv.org/abs/1608.00060
