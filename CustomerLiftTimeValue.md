@@ -9,3 +9,6 @@ model for churn prediction in non-contractual settings](http://steppechange.com/
 
 # Blogs
 * [CLV revenue](https://www.datascience.com/blog/intro-to-predictive-modeling-for-customer-lifetime-value)
+
+# Implementation
+* [BTYD in R](https://cran.r-project.org/web/packages/BTYD/vignettes/BTYD-walkthrough.pdf)
