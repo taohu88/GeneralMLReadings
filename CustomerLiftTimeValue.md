@@ -12,3 +12,4 @@ model for churn prediction in non-contractual settings](http://steppechange.com/
 
 # Implementation
 * [BTYD in R](https://cran.r-project.org/web/packages/BTYD/vignettes/BTYD-walkthrough.pdf)
+* [Excel] (http://www.brucehardie.com/notes/004/)
