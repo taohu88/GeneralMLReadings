@@ -4,6 +4,7 @@
 model for churn prediction in non-contractual settings](http://steppechange.com/wp-content/uploads/2017/06/SSRN-id2905307.pdf)
 * [A Note on Implementing the Pareto/NBD Model in MATLAB](http://www.brucehardie.com/notes/008/)
 * [Count your customer one by one](http://merc.e.u-tokyo.ac.jp/mmrc/dp/pdf/MMRC76_2006.pdf)
+* [Valuing Subscription-Based Businesses Using Publicly Disclosed Customer Data](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2701093)
 
 # Resource
 * [Pareto/NBD](https://university.custora.com/for-marketers/clv/advanced/pareto-nbd)
