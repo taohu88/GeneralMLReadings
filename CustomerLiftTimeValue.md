@@ -5,10 +5,10 @@ model for churn prediction in non-contractual settings](http://steppechange.com/
 * [A Note on Implementing the Pareto/NBD Model in MATLAB](http://www.brucehardie.com/notes/008/)
 * [Count your customer one by one](http://merc.e.u-tokyo.ac.jp/mmrc/dp/pdf/MMRC76_2006.pdf)
 * [Valuing Subscription-Based Businesses Using Publicly Disclosed Customer Data](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2701093)
+* [An Introduction to Probability Models for Marketing Research](http://www.brucehardie.com/talks/intro_tut_art_16_HO.pdf)
 
 # Resource
 * [Pareto/NBD](https://university.custora.com/for-marketers/clv/advanced/pareto-nbd)
-* [Summary on use cases for different models](http://www.brucehardie.com/talks/intro_tut_art_16_HO.pdf)
 
 # Blogs
 * [CLV revenue](https://www.datascience.com/blog/intro-to-predictive-modeling-for-customer-lifetime-value)
