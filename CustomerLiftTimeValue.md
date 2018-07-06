@@ -7,6 +7,7 @@ model for churn prediction in non-contractual settings](http://steppechange.com/
 
 # Resource
 * [Pareto/NBD](https://university.custora.com/for-marketers/clv/advanced/pareto-nbd)
+* [Summary on use cases for different models](http://www.brucehardie.com/talks/intro_tut_art_16_HO.pdf)
 
 # Blogs
 * [CLV revenue](https://www.datascience.com/blog/intro-to-predictive-modeling-for-customer-lifetime-value)
