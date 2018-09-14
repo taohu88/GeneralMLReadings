@@ -3,6 +3,7 @@
 * [Ian Goodfellow: Generative Adversarial Networks (NIPS 2016 tutorial)](https://www.youtube.com/watch?v=HGYYEUSm-0Q)
 
 * [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf)
+* [Binary GAN](https://arxiv.org/pdf/1708.04150.pdf)
 
 # Tips on training
 * [Tips on GAN](https://github.com/soumith/ganhacks#authors)
