@@ -16,3 +16,7 @@
 
 # Tensorflow Data Import
 * https://github.com/taohu88/tensorflow_template_application
+
+# Tensorflow lazy loading
+* [tensorflow lazy loading](https://docs.google.com/document/d/1FSPNZFQsnaUVeTo0OQ2RrEZ0f4el9bIGI5sQALbG_F0)
+* [tensorflow lazy loading](https://danijar.com/structuring-your-tensorflow-models/)
