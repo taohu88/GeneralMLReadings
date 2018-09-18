@@ -12,6 +12,7 @@
 * http://colah.github.io/
 * Andrej Karpathy http://karpathy.github.io/2018/01/20/medium/
 * Tutorial: http://deeplearning.net/tutorial/
+* [Word vector](http://ruder.io/word-embeddings-softmax/)
 
 # RBM
 * http://rocknrollnerd.github.io/ml/2015/07/18/general-boltzmann-machines.html
