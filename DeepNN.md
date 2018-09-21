@@ -6,6 +6,8 @@
 2. [Deep NN book](http://neuralnetworksanddeeplearning.com/)
 3. [Chris Olah's blog](http://colah.github.io/)
 
+# Optimizer
+* [Momentum](https://distill.pub/2017/momentum/)
 # Best Pages
 
 # Blogs
