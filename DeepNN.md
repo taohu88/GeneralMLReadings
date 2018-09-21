@@ -8,6 +8,7 @@
 
 # Optimizer
 * [Momentum](https://distill.pub/2017/momentum/)
+* [Optimizers](https://blog.paperspace.com/intro-to-optimization-momentum-rmsprop-adam/)
 # Best Pages
 
 # Blogs
