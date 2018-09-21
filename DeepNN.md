@@ -9,6 +9,9 @@
 # Optimizer
 * [Momentum](https://distill.pub/2017/momentum/)
 * [Optimizers](https://blog.paperspace.com/intro-to-optimization-momentum-rmsprop-adam/)
+* [Exponential average](https://www.youtube.com/watch?v=wJBcz7FyLzg&index=59&t=0s&list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
+
+
 # Best Pages
 
 # Blogs
