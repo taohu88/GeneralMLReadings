@@ -6,6 +6,7 @@ model for churn prediction in non-contractual settings](http://steppechange.com/
 * [Count your customer one by one](http://merc.e.u-tokyo.ac.jp/mmrc/dp/pdf/MMRC76_2006.pdf)
 * [Valuing Subscription-Based Businesses Using Publicly Disclosed Customer Data](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2701093)
 * [An Introduction to Probability Models for Marketing Research](http://www.brucehardie.com/talks/intro_tut_art_16_HO.pdf)
+* [Drive pareto nbd model](http://brucehardie.com/notes/009/pareto_nbd_derivations_2005-11-05.pdf)
 
 # Resource
 * [Pareto/NBD](https://university.custora.com/for-marketers/clv/advanced/pareto-nbd)
