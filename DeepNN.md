@@ -19,6 +19,8 @@
 * Andrej Karpathy http://karpathy.github.io/2018/01/20/medium/
 * Tutorial: http://deeplearning.net/tutorial/
 * [Word vector](http://ruder.io/word-embeddings-softmax/)
+* [fast.ai courses](https://www.youtube.com/watch?v=9C06ZPF8Uuc&list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&index=3)
+* [Decode resnet](http://teleported.in/posts/decoding-resnet-architecture/)
 
 # RBM
 * http://rocknrollnerd.github.io/ml/2015/07/18/general-boltzmann-machines.html
