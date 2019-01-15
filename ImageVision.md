@@ -11,6 +11,7 @@
 # Papers
 * [YOLO v3](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 * [YOLO](https://arxiv.org/abs/1506.02640)
+* [SSD](https://arxiv.org/abs/1512.02325)
 * [Faster-R-CNN, SSD vs YOLO](https://medium.com/@jonathan_hui/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d)
 
 # Samples
