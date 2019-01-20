@@ -14,5 +14,9 @@
 * [SSD](https://arxiv.org/abs/1512.02325)
 * [Faster-R-CNN, SSD vs YOLO](https://medium.com/@jonathan_hui/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d)
 
+# Install
+* OpenCv: Easy road
+* https://pypi.org/project/opencv-python/
+
 # Samples
 * [Open cv object dection](https://www.arunponnusamy.com/yolo-object-detection-opencv-python.html)
