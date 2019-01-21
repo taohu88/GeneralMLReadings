@@ -21,3 +21,6 @@
 
 # Samples
 * [Open cv object dection](https://www.arunponnusamy.com/yolo-object-detection-opencv-python.html)
+
+# Explanation
+* [Darknet explain](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
