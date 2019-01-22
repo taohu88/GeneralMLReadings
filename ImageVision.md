@@ -24,3 +24,7 @@
 
 # Explanation
 * [Darknet explain](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
+
+# Image Net Download
+* [Image Net](http://image-net.org/challenges/LSVRC/2017/download-images-1p39.php)
+* [COCO data](https://github.com/eriklindernoren/PyTorch-YOLOv3)
