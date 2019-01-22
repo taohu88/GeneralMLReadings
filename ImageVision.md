@@ -8,6 +8,7 @@
 * [Open Cv](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
 * [Darknet](https://github.com/pjreddie/darknet/tree/master)
 * [Train Darknet](https://github.com/AlexeyAB/darknet#how-to-train-pascal-voc-data)
+* [Pytorch YOLOV3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
 
 # Papers
 * [YOLO v3](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
