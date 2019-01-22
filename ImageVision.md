@@ -17,7 +17,10 @@
 * [Faster-R-CNN, SSD vs YOLO](https://medium.com/@jonathan_hui/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d)
 
 # Install
-* OpenCv: Easy road
+* OpenCv: 
+   ```
+      sudo apt-get install libopencv-dev python3-opencv
+   ```
 * https://pypi.org/project/opencv-python/
 
 # Samples
