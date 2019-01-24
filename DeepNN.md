@@ -13,7 +13,7 @@
 
 # Image net
 * [Rectangle clip](https://nbviewer.jupyter.org/github/bearpelican/Experiments/blob/master/rectangular_images/RectangularImageVisualization.html)
-
+* [train in 18mins](https://github.com/diux-dev/imagenet18)
 # Best Pages
 
 # Blogs
