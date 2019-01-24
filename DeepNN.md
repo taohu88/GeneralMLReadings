@@ -14,6 +14,9 @@
 # Image net
 * [Rectangle clip](https://nbviewer.jupyter.org/github/bearpelican/Experiments/blob/master/rectangular_images/RectangularImageVisualization.html)
 * [train in 18mins](https://github.com/diux-dev/imagenet18)
+* [Data set](https://s3.amazonaws.com/yaroslavvb/imagenet-data-sorted.tar)
+* [Data set](https://s3.amazonaws.com/yaroslavvb/imagenet-sz.tar)
+
 # Best Pages
 
 # Blogs
