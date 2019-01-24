@@ -11,6 +11,8 @@
 * [Optimizers](https://blog.paperspace.com/intro-to-optimization-momentum-rmsprop-adam/)
 * [Exponential average](https://www.youtube.com/watch?v=wJBcz7FyLzg&index=59&t=0s&list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
 
+# Image net
+* [Rectangle clip](https://nbviewer.jupyter.org/github/bearpelican/Experiments/blob/master/rectangular_images/RectangularImageVisualization.html)
 
 # Best Pages
 
