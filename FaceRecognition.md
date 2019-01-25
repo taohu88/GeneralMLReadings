@@ -19,3 +19,6 @@
 # Pytorch examples
 * [Resnet face](https://github.com/AruniRC/resnet-face-pytorch)
 * [LightCNN](https://github.com/AlfredXiangWu/LightCNN)
+
+# Install
+* [Install dlib easy way](https://www.pyimagesearch.com/2018/01/22/install-dlib-easy-complete-guide/)
