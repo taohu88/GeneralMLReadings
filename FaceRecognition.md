@@ -14,3 +14,7 @@
 * [Open face](http://cmusatyalab.github.io/openface/models-and-accuracies/#deep-face-representation)
 * [Face net](https://github.com/davidsandberg/facenet)
 * [VGG](http://www.robots.ox.ac.uk/~vgg/software/)
+
+# Pytorch examples
+* [Resnet face](https://github.com/AruniRC/resnet-face-pytorch)
+* [LightCNN](https://github.com/AlfredXiangWu/LightCNN)
