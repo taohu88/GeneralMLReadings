@@ -9,6 +9,7 @@
 # Papers
 * [FaceNet](https://arxiv.org/abs/1503.03832)
 * [Deep Face](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
+* [Light CNN](https://arxiv.org/abs/1511.02683)
 
 # System
 * [Open face](http://cmusatyalab.github.io/openface/models-and-accuracies/#deep-face-representation)
