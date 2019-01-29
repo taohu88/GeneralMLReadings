@@ -18,6 +18,7 @@
 * [Data set](https://s3.amazonaws.com/yaroslavvb/imagenet-sz.tar)
 
 # Best Pages
+* [Spatial Pyramid Pooling](https://arxiv.org/abs/1406.4729)
 
 # Blogs
 * http://colah.github.io/
