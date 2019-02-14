@@ -4,3 +4,4 @@
 
 # Implementation
 * [Rainbow speed up](https://github.com/Shmuma/ptan/tree/master/samples/rainbow)
+* [Vel](https://github.com/MillionIntegrals/vel/tree/master/examples-configs/rl/atari/dqn)
