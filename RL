@@ -1,2 +1,0 @@
-# Evolution strategy
-* https://arxiv.org/pdf/1703.03864.pdf
