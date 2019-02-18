@@ -10,6 +10,10 @@
 # Courses
 * [RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
+
+# Open AI
+* [Spin up](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
+
 # Implementation
 * [Open ai baselines](https://github.com/openai/baselines)
 * [Rainbow speed up](https://github.com/Shmuma/ptan/tree/master/samples/rainbow)
