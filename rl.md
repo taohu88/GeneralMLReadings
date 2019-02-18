@@ -8,3 +8,5 @@
 # Implementation
 * [Rainbow speed up](https://github.com/Shmuma/ptan/tree/master/samples/rainbow)
 * [Vel](https://github.com/MillionIntegrals/vel/tree/master/examples-configs/rl/atari/dqn)
+* [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
+* [Open ai baselines](https://github.com/openai/baselines)
