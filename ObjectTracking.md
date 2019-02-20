@@ -14,3 +14,6 @@
 # Systems
 * [GORUN](https://github.com/davheld/GOTURN)
 * [Tracktor](https://github.com/vivekhsridhar/tracktor)
+
+# Implementation
+* https://github.com/StrangerZhang/pyECO
