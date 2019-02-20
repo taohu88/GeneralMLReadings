@@ -4,6 +4,7 @@
 
 # Papers
 * [Efficient Convolution Operators for Tracking](https://arxiv.org/pdf/1611.09224.pdf)
+* [Tracking the Trackers](https://arxiv.org/pdf/1704.02781.pdf)
 
 # Systems
 * [GORUN](https://github.com/davheld/GOTURN)
