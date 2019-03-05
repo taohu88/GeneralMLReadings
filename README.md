@@ -9,6 +9,9 @@
 # Blogs
 * Karpathy: https://medium.com/@karpathy/
 
+# Good sites
+* [Papers with code](https://paperswithcode.com/sota)
+
 # Arxiv Sanity Preserver
 * Papers: http://arxiv-sanity.com/
 
