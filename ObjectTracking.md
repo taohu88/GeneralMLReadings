@@ -2,6 +2,9 @@
 * [Correlation Filters](https://blog.csdn.net/sgfmby1994/article/details/68490903)
 * [Algs reviews](https://www.leiphone.com/news/201711/8rzQU1BgbF9YCq5t.html)
 
+# Video
+* [Deep RL for Object Tracking](https://www.youtube.com/watch?v=NyvhCviJDGs&t=1315s)
+
 # Projects
 * [Counting Cars](https://github.com/IBM/powerai-counting-cars)
 * [Simple oject tracking](https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/)
