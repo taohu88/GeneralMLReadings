@@ -4,6 +4,8 @@
 
 # Video
 * [Deep RL for Object Tracking](https://www.youtube.com/watch?v=NyvhCviJDGs&t=1315s)
+* [FC Siamese loss for tracking](https://www.youtube.com/watch?v=jZoUalMMZ_0)
+* http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w28/Kristan_The_Visual_Object_ICCV_2017_paper.pdf
 
 # Projects
 * [Counting Cars](https://github.com/IBM/powerai-counting-cars)
