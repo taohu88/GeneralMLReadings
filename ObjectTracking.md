@@ -12,6 +12,7 @@
 * [Simple oject tracking](https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/)
 
 # Papers
+* [Dector or Tracking](https://arxiv.org/pdf/1811.05340.pdf)
 * [Efficient Convolution Operators for Tracking](https://arxiv.org/pdf/1611.09224.pdf)
 * [Tracking the Trackers](https://arxiv.org/pdf/1704.02781.pdf)
 * [EnKCF: Ensemble of Kernelized Correlation Filters for High-Speed Object Tracking](https://www.youtube.com/watch?v=xLjLc0eVqLU)
