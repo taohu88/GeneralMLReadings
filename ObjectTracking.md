@@ -5,6 +5,7 @@
 * [Tracking Noisy Tragets: A review of recent object tracking approaches](https://arxiv.org/pdf/1802.03098.pdf)
 
 # Background
+* [Discrete Cosine Transform](https://www.youtube.com/watch?v=mK9Avw7jX6E)
 * https://zhuanlan.zhihu.com/DCF-tracking
 * [Correlation Filters](https://blog.csdn.net/sgfmby1994/article/details/68490903)
 * [Algs reviews](https://www.leiphone.com/news/201711/8rzQU1BgbF9YCq5t.html)
