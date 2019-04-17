@@ -1,3 +1,7 @@
+# Install opencv
+* https://medium.com/@shachindra/installing-opencv3-4-with-python3-on-windows10-5511e3323a0
+
+
 # Background
 * [Correlation Filters](https://blog.csdn.net/sgfmby1994/article/details/68490903)
 * [Algs reviews](https://www.leiphone.com/news/201711/8rzQU1BgbF9YCq5t.html)
