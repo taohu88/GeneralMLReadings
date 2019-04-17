@@ -3,6 +3,7 @@
 
 
 # Background
+* https://zhuanlan.zhihu.com/DCF-tracking
 * [Correlation Filters](https://blog.csdn.net/sgfmby1994/article/details/68490903)
 * [Algs reviews](https://www.leiphone.com/news/201711/8rzQU1BgbF9YCq5t.html)
 
