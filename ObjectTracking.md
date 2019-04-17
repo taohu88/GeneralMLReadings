@@ -1,6 +1,9 @@
 # Install opencv
 * https://medium.com/@shachindra/installing-opencv3-4-with-python3-on-windows10-5511e3323a0
 
+# Review and Approaches in category
+* [Tracking Noisy Tragets: A review of recent object tracking approaches](https://arxiv.org/pdf/1802.03098.pdf)
+
 # Background
 * https://zhuanlan.zhihu.com/DCF-tracking
 * [Correlation Filters](https://blog.csdn.net/sgfmby1994/article/details/68490903)
