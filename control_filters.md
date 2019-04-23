@@ -1,4 +1,5 @@
 # [Kalman filter](https://www.youtube.com/watch?v=AACg26YEips)
+* [Understand Kalman Filter](https://courses.engr.illinois.edu/ece420/sp2017/UnderstandingKalmanFilter.pdf)
 * Linear model
 * Linear dynamic model
 * Estimate model
