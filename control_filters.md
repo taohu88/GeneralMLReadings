@@ -2,11 +2,11 @@
 * [Understand Kalman Filter](https://courses.engr.illinois.edu/ece420/sp2017/UnderstandingKalmanFilter.pdf)
 * [Extended Kalman Filter](https://medium.com/@jonathan_hui/self-driving-object-tracking-intuition-and-the-math-behind-kalman-filter-657d11dd0a90)
 * [Kalman filter](https://towardsdatascience.com/kalman-filter-an-algorithm-for-making-sense-from-the-insights-of-various-sensors-fused-together-ddf67597f35e)
-* Linear model
 * Linear dynamic model
 * Estimate model
   * Observation y to estimate state x_hat
   * previous estimate state: x_prev_hat
+* Update model
   * diff between estimated observations y_hat and actual observations y
   * combination of previous estimate state x_prev_hat + K * diff
   
