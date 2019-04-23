@@ -13,3 +13,6 @@
 * [Deep Kalman Filter](https://arxiv.org/pdf/1511.05121.pdf)
 * [Review on Deep Kalman Filter](file:///D:/Downloads/DeepKalmanFilters--LiveandLearn.pdf)
 * [Deep Kalman Filter for Video compression](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guo_Lu_Deep_Kalman_Filtering_ECCV_2018_paper.pdf)
+
+# Resource
+* [Kalman Filter](https://medium.com/@surmenok/learning-kalman-filter-250d3d15bf53)
