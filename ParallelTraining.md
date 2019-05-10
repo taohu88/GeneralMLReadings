@@ -6,3 +6,6 @@
 
 # xgboosting
 * parallel training: https://github.com/dmlc/xgboost/tree/master/demo/distributed-training
+
+# dask-ml
+* https://ml.dask.org/examples/training-on-large-datasets.html
