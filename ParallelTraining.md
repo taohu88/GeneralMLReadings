@@ -3,6 +3,7 @@
 * spark version: MMLSpark https://github.com/Azure/mmlspark
 * python version: https://github.com/SfinxCZ/dask-lightgbm
 * cli version: https://github.com/Microsoft/LightGBM/tree/master/examples/parallel_learning
+* Experiment example: https://github.com/microsoft/LightGBM/blob/master/docs/Experiments.rst#parallel-experiment
 
 # xgboosting
 * parallel training: https://github.com/dmlc/xgboost/tree/master/demo/distributed-training
