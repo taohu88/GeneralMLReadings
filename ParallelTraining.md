@@ -10,3 +10,6 @@
 
 # dask-ml
 * https://ml.dask.org/examples/training-on-large-datasets.html
+
+# catboost
+* https://github.com/catboost/catboost/tree/master/catboost/benchmarks/gpu_vs_cpu_training_speed
