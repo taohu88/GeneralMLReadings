@@ -3,6 +3,7 @@
 * Linear Algerbra: Gilbert Strang’s MIT course on OpenCourseWare: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 * Machine Learning Course [Kilian Weinberger](https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA)
 * Graphical Model: [Christopher Bishop](https://www.youtube.com/watch?v=ju1Grt2hdko)
+* A little bit old PGM [Probablistic Graphical Models](https://www.youtube.com/watch?v=GqMzbbaN6T4&list=PLzERW_Obpmv-_TkPEmCyzaJUGHtl7S01i) 
 
 # Reading list
 * Lot of papers are around 2010-2012 (so maybe a little old) http://deeplearning.net/reading-list/
