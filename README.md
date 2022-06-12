@@ -11,7 +11,6 @@
 * [fast ai courses](http://course.fast.ai/start.html)
 * Others: https://github.com/Developer-Y/cs-video-courses
 
-
 # Reading list
 * Lot of papers are around 2010-2012 (so maybe a little old) http://deeplearning.net/reading-list/
 * Chinese version on people of ML: https://blog.csdn.net/txwh0820/article/details/45830815
@@ -21,9 +20,6 @@
 
 # Good sites
 * [Papers with code](https://paperswithcode.com/sota)
-
-# Arxiv Sanity Preserver
-* Papers: http://arxiv-sanity.com/
 
 
 # GPU resouorce
