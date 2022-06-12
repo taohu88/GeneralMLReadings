@@ -11,6 +11,9 @@
 * [fast ai courses](http://course.fast.ai/start.html)
 * Others: https://github.com/Developer-Y/cs-video-courses
 
+# Some important papers
+* [Original stochastic approximation paper](http://www.columbia.edu/~ww2040/8100F16/RM51.pdf)
+
 # Reading list
 * Lot of papers are around 2010-2012 (so maybe a little old) http://deeplearning.net/reading-list/
 
