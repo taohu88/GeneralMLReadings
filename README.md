@@ -1,4 +1,4 @@
-# Courses and Foundations
+# Courses (some may be outdated) and Foundations
 * Matrix calculus: http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 * Linear Algerbra: Gilbert Strang’s MIT course on OpenCourseWare: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 * Machine Learning Course [Kilian Weinberger](https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA)
@@ -24,8 +24,6 @@
 
 # Arxiv Sanity Preserver
 * Papers: http://arxiv-sanity.com/
-
-# Courses
 
 
 # GPU resouorce
