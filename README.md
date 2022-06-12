@@ -3,7 +3,14 @@
 * Linear Algerbra: Gilbert Strang’s MIT course on OpenCourseWare: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 * Machine Learning Course [Kilian Weinberger](https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA)
 * Graphical Model: [Christopher Bishop](https://www.youtube.com/watch?v=ju1Grt2hdko)
-* A little bit old PGM [Probablistic Graphical Models](https://www.youtube.com/watch?v=GqMzbbaN6T4&list=PLzERW_Obpmv-_TkPEmCyzaJUGHtl7S01i) 
+* PGM [Probablistic Graphical Models](https://www.youtube.com/watch?v=GqMzbbaN6T4&list=PLzERW_Obpmv-_TkPEmCyzaJUGHtl7S01i) 
+* [Geoffrey Hinton on neural network](https://www.coursera.org/learn/neural-networks)
+* [Silver on Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [Standford cs231](http://cs231n.stanford.edu/)
+* [Standford cs224d](http://cs224d.stanford.edu/)
+* [fast ai courses](http://course.fast.ai/start.html)
+* Others: https://github.com/Developer-Y/cs-video-courses
+
 
 # Reading list
 * Lot of papers are around 2010-2012 (so maybe a little old) http://deeplearning.net/reading-list/
@@ -19,18 +26,7 @@
 * Papers: http://arxiv-sanity.com/
 
 # Courses
-* Many cs and AI courses: https://github.com/Developer-Y/cs-video-courses
-* Andrew Ng:  https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&campaignid=904733485&adgroupid=54215108588&device=c&keyword=andrew%20ng&matchtype=p&network=g&devicemodel=&adpostion=1t1&creativeid=242821510206&hide_mobile_promo&gclid=EAIaIQobChMIsuOZpqmS2QIVh4l-Ch2ujwOkEAAYASAAEgIZZ_D_BwE#courses
 
-*  Geoffrey Hinton https://www.coursera.org/learn/neural-networks
-
-* Silver on Reinforcement Learning: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
-
-* Standford cs231 http://cs231n.stanford.edu/
-
-* Standford cs224d http://cs224d.stanford.edu/
-
-* fast ai courses: http://course.fast.ai/start.html
 
 # GPU resouorce
 * https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
